@@ -13,7 +13,7 @@ repositories {
 }
 
 dependencies {
-
+    implementation("com.1stleg:jnativehook:2.1.0")
 }
 
 javafx {

@@ -3,11 +3,11 @@
 ![Gradle](https://img.shields.io/badge/Gradle%207.5-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
 ![](https://img.shields.io/badge/Version-1.0.0-lim)
-![](https://img.shields.io/github/languages/top/stheren/TemplateFX)
+![](https://img.shields.io/github/languages/top/stheren/SimpleMacro)
 
-![](https://img.shields.io/github/last-commit/stheren/TemplateFX)
+![](https://img.shields.io/github/last-commit/stheren/SimpleMacro)
 
-![](https://img.shields.io/github/repo-size/stheren/TemplateFX)
+![](https://img.shields.io/github/repo-size/stheren/SimpleMacro)
 
 ## Description
 This is a template for creating a new project using Kotlin, Gradle, JavaFX.
@@ -20,4 +20,4 @@ Feel free to use this template to create your own project.
 ![](https://img.shields.io/badge/com.github.johnrengelman.shadow-7.1.2-black)
 
 ## Contributors
-![Contributors](https://contrib.rocks/image?repo=stheren/TemplateFX)
+![Contributors](https://contrib.rocks/image?repo=stheren/SimpleMacro)

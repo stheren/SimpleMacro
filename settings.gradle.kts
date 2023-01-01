@@ -1,4 +1,4 @@
-rootProject.name = "TemplateFX"
+rootProject.name = "SimpleMacro"
 include("java")
 
 pluginManagement {
